@@ -2,6 +2,8 @@
 
 Esta guía establece el estándar de desarrollo moderno utilizando **Laravel Sail** sobre Docker (PHP-FPM, MySQL) para garantizar la **máxima portabilidad** y **cero dependencia** del entorno PHP local.
 
+Preferiblemente use la consola de WSL.
+
 ### ⚙️ Fase 1: Preparación del Entorno Aislado
 
 #### Paso 1: Verificación de Docker
@@ -229,4 +231,5 @@ Asegúrese de que la `APP_KEY` en producción sea diferente a la de su entorno l
 ./vendor/bin/sail artisan key:generate
 ```
 
+<a href="docs/control-entorno.md">siguiente</a>
 ```
