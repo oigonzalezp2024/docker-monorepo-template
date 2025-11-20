@@ -1,24 +1,13 @@
-Perfecto.
-Aquí tienes **una guía completamente separada**, llamada **“Guía de Onboarding para Nuevos Desarrolladores”**, independiente de tu guía de instalación original.
-
-La puedes colocar en un archivo aparte, por ejemplo:
-
-```
-/docs/ONBOARDING.md
-```
-
-O ponerla en el README.
-
-Va lista para copiar y pegar.
-
----
-
 # 🚀 **Guía de Onboarding para Nuevos Desarrolladores**
+
+
 
 Bienvenido al proyecto.
 Esta guía explica **únicamente** lo que un desarrollador debe hacer **después de clonar el repositorio**, sin necesidad de crear Laravel desde cero.
 
 El objetivo es permitir que cualquier persona levante el entorno en minutos usando **Docker + Laravel Sail**, sin instalar PHP ni Composer localmente.
+
+Esta guia a sido desarrollada con la ayuda de Gemini y ChatGPT pero depurada y corregida de forma manual para asegurar su usabilidad.
 
 ---
 
